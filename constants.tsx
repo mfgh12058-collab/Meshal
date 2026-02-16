@@ -36,4 +36,11 @@ export const Icons = {
       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 16.5c-1.5 1.5-3 1.5-4.5 0s-3-1.5-4.5 0-3 1.5-4.5 0-3-1.5-4.5 0M21 12c-1.5 1.5-3 1.5-4.5 0s-3-1.5-4.5 0-3 1.5-4.5 0-3-1.5-4.5 0M21 7.5c-1.5 1.5-3 1.5-4.5 0s-3-1.5-4.5 0-3 1.5-4.5 0-3-1.5-4.5 0" />
     </svg>
   ),
+  Taekwondo: () => (
+    <svg xmlns="http://www.w3.org/2000/svg" className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15.5 14h.5M14 11h.5M10.5 11h.5M9 14h.5M12 21a9 9 0 100-18 9 9 0 000 18z" />
+       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3" />
+       <path d="M17 19l-5-5-5 5" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+    </svg>
+  ),
 };
